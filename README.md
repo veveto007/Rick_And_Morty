@@ -1,0 +1,1 @@
+*Este Projeto foi desenvolvido com a inteção de consumir uma API de characters que é hospedada online, utilizando método de requisicção HTTP (GET).*
